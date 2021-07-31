@@ -6,6 +6,10 @@ The server runs with Flask framework. when running the server the data is prepro
 
 
 # Data overview
+
+### data location
+Data should be located in folder "my_service/data" under the name caller_id_db.csv
+
 ### the data schema is:
 1. name : -> string
 2. phone_number : -> string (contains "-")
