@@ -1,1 +1,3 @@
 /.env/
+/my_service/data/
+/my_service/data/*csv
